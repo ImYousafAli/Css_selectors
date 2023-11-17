@@ -1,0 +1,52 @@
+/*  unIverSaL SeLector */
+
+/* *{
+    color: red;
+} */
+
+/*   Type SeLector */
+/*This is for the single element */
+/* span{
+    color: red;
+}
+h1{
+    color: red;
+} */
+
+/*This is for the multiple element */
+/* span,h1{
+    color: red;
+} */
+
+/* Class SeLector */
+
+/* .intrest{
+    color: red;
+} */
+
+/* Id SeLector */
+
+/* #My_span{
+    color: red;
+} */
+
+/*  Child SeLector */
+/* span>p{
+    color: red;
+} */
+
+/* DescendantSelector */
+/* div p{
+    color: red;
+} */
+
+
+/* Adjacent Sibling Selector */
+/* h1+p{
+    color: red;
+} */
+
+/* GeneraL Sibling SeLector */
+h1~p{
+    color: red;
+}
